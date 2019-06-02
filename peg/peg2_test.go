@@ -2,7 +2,7 @@ package peg
 
 import (
 	"bytes"
-	"github.com/quarnster/parser"
+	"github.com/jxo/parser"
 	"io/ioutil"
 	"os"
 	"os/exec"

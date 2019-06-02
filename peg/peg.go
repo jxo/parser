@@ -26,8 +26,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package peg
 
 import (
-	"github.com/limetext/text"
-	. "github.com/quarnster/parser"
+	"github.com/jxo/text"
+	. "github.com/jxo/parser"
 )
 
 type Peg struct {

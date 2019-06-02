@@ -28,7 +28,7 @@ package parser
 import (
 	"bytes"
 	"fmt"
-	"github.com/limetext/text"
+	"github.com/jxo/text"
 )
 
 type (

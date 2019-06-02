@@ -506,8 +506,8 @@ func (g *GoGenerator) Begin(s GeneratorSettings) error {
 	imports := `
 
 import (
-	"github.com/limetext/text"
-	. "github.com/quarnster/parser"
+	"github.com/jxo/text"
+	. "github.com/jxo/parser"
 `
 	impList := g.Imports
 	members := g.ParserVariables
