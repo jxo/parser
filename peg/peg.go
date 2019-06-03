@@ -26,7 +26,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package peg
 
 import (
-	"github.com/jxo/text"
+	"github.com/jxo/lime/text"
 	. "github.com/jxo/parser"
 )
 

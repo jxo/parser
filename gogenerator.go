@@ -506,7 +506,7 @@ func (g *GoGenerator) Begin(s GeneratorSettings) error {
 	imports := `
 
 import (
-	"github.com/jxo/text"
+	"github.com/jxo/lime/text"
 	. "github.com/jxo/parser"
 `
 	impList := g.Imports
